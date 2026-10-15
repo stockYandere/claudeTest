@@ -4,9 +4,9 @@
 
 ## APK 받기
 
-**원클릭 다운로드:** https://github.com/stockYandere/claudeTest/releases/latest/download/ClaudeTest.apk
+**다운로드:** https://github.com/stockYandere/claudeTest/releases/latest 에서 `ClaudeTest.apk`를 누르세요.
 
-푸시할 때마다 새 Release가 만들어지고, 위 링크는 항상 최신 APK를 가리킵니다.
+푸시할 때마다 새 Release가 만들어지고, 위 링크는 항상 최신 Release 페이지를 엽니다.
 
 ### Actions에서 받기
 
